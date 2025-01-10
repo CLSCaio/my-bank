@@ -24,6 +24,7 @@ export const Card = ({
           p-[16px]
           w-[205px] h-[140px]
           drop-shadow-cardShadow
+          justify-between
         "
     >
       {isCardConfig ? (
